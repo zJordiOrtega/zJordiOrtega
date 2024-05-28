@@ -1,23 +1,15 @@
-<h1 align="center">Hi 👋, I'm Jordi Ortega</h1>
-<h3 align="center">I am a Software Engineer student with basic experience in Automation Testing using Appium and Android development with Kotlin and Jetpack Compose. I excel in creative problem-solving and teamwork. I am seeking opportunities to apply and expand my knowledge in a dynamic and collaborative environment.</h3>
+# 💫 About Me:
+I am a Software Engineer student with basic experience in Automation Testing using Appium and Android development with Kotlin and Jetpack Compose. I excel in creative problem-solving and teamwork. <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zjordiortega&label=Profile%20views&color=0e75b6&style=flat" alt="zjordiortega" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjordiortega" alt="zjordiortega" /></a> </p>
+# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zjordiortega&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zjordiortega&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zjordiortega&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Testing (Appium, UiAutomator)**
+---
+[![](https://visitcount.itsvg.in/api?id=zjordiortega&icon=5&color=10)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **jimenezjordi020@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zjordiortega&show_icons=true&locale=en&layout=compact" alt="zjordiortega" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zjordiortega&show_icons=true&locale=en" alt="zjordiortega" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zjordiortega&" alt="zjordiortega" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
