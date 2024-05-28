@@ -10,7 +10,6 @@ I am a Software Engineer student with basic experience in Automation Testing usi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zjordiortega&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zjordiortega&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zjordiortega&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zjordiortega&icon=5&color=10)](https://visitcount.itsvg.in)
