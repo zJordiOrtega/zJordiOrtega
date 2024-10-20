@@ -13,11 +13,3 @@ I’m a backend developer passionate about building robust, scalable application
 - Always learning new technologies and techniques to improve my craft.
 
 Feel free to explore my repositories, ask questions, or connect with me! 😊
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zJordiOrtega&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zJordiOrtega&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zJordiOrtega&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=zJordiOrtega&icon=0&color=0)](https://visitcount.itsvg.in)
