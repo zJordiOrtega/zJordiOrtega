@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer student with basic experience in Automation Testing using Appium and Android development with Kotlin and Jetpack Compose. I excel in creative problem-solving and teamwork. <br>
-
+I’m a backend developer passionate about building robust, scalable applications with modern technologies. Currently, I’m focused on developing applications with **Go** and **PostgreSQL**. I also have experience in **Java**, **SQL**, **HTML**, **CSS**, and **JavaScript**.
 
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
